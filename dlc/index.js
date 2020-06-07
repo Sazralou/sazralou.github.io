@@ -7,11 +7,10 @@
         ]
     },
     { 
-        "file": "hacked.dlc", 
-        "title": "HACKED",
+        "file": "tu003410.dlc", 
+        "title": "tu003410.dlc",
         "buttons": [
-            { "title": "Hacked 1", "action": [75,0,3,4] },
-            { "title": "Hacked 2", "action": [75,0,4,4] }
+            { "title": "tu003410.dlc", "action": [75,0,3,4] }
         ]
     },
     {
