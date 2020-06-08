@@ -14,10 +14,10 @@
         ]
     },
     {
-        "file": "noimg2.dlc", 
-        "title": "Audio only",
+        "file": "tu012770.dlc", 
+        "title": "tu012770.dlc",
         "buttons": [
-            { "title": "Audio test ", "action": [75,0,4,4] }
+            { "title": "tu012770.dlc", "action": [75,0,4,4] }
         ]
     },
     {
