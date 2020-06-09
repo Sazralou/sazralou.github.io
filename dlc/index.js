@@ -1,30 +1,30 @@
 [
     { 
-        "file": "tu012770.dlc", 
-        "title": "tu012770.dlc",
+        "file": "tu02350.dlc", 
+        "title": "tu02350.dlc",
         "buttons": [
-            { "title": "tu012770.dlc", "action": [75,0,4,4] }
+            { "title": "tu02350.dlc", "action": [75,0,0,1] }
         ]
     },
     { 
-        "file": "tu003410.dlc", 
-        "title": "tu003410.dlc",
+        "file": "tu002560.dlc", 
+        "title": "tu002560.dlc",
         "buttons": [
-            { "title": "tu003410.dlc", "action": [75,0,3,4] }
+            { "title": "tu002560.dlc", "action": [75,0,0,2] }
         ]
     },
     {
-        "file": "tu012770.dlc", 
-        "title": "tu012770.dlc",
+        "file": "tu002770.dlc", 
+        "title": "tu002770.dlc",
         "buttons": [
-            { "title": "tu012770.dlc", "action": [75,0,4,4] }
+            { "title": "tu002770.dlc", "action": [75,0,0,3] }
         ]
     },
     {
-        "file": "chilli.dlc", 
-        "title": "Chilli",
+        "file": “tu002880.dlc”, 
+        "title": "tu002880.dlc",
         "buttons": [
-            { "title": "Chilli ", "action": [75,0,4,4] }
+            { "title": "tu002880.dlc", "action": [75,0,0,4] }
         ]
     }
 ]
